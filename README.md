@@ -93,7 +93,7 @@ Berikut output ketika user memasukkan opsi yang tidak tersedai di pilihan:
 
 Untuk mengakhiri program, dalam role mahasiswa atau admin user cukup logout untuk kembali ke loop awal sebelum sistem login dan memilih opsi keluar:
 
-<img width="368" height="260" alt="LOGOUT ADMIN" src="https://github.com/user-attachments/assets/ce453cd0-b5f1-4ab2-95e8-138b10baf6f4" />
+<img width="368" height="238" alt="LOGOUT ADMIN" src="https://github.com/user-attachments/assets/3f688dcc-2caf-4356-9a61-b13a7343ec0e" />
 
 <img width="445" height="136" alt="END" src="https://github.com/user-attachments/assets/a740d57d-757d-4893-a9c4-9433470f96d5" />
 
