@@ -51,7 +51,7 @@ Jika user memilih opsi yang tidak tersedia maka:
 
 <img width="333" height="142" alt="PILIHAN TIDAK VALID 2" src="https://github.com/user-attachments/assets/c3570e0a-8352-4800-ba31-1238373e09de" />
 
-Dan ketika mahasiswa logout:
+Dan ketika mahasiswa logout, Program kembali ke laman login:
 
 <img width="370" height="239" alt="LOGOUT MAHASISWA" src="https://github.com/user-attachments/assets/ee531c71-9f9d-433b-a2a5-9c56b6194e10" />
 
@@ -92,6 +92,9 @@ Berikut output ketika user memasukkan opsi yang tidak tersedai di pilihan:
 <img width="467" height="651" alt="PILIHAN TIDAK VALID" src="https://github.com/user-attachments/assets/8a662d9e-506c-49cf-8e10-e5cc6d47d12f" />
 
 Untuk mengakhiri program, dalam role mahasiswa atau admin user cukup logout untuk kembali ke loop awal sebelum sistem login dan memilih opsi keluar:
+
+<img width="445" height="136" alt="END" src="https://github.com/user-attachments/assets/7ee1f74f-4ff2-4453-998b-464819af56ae" />
+
 
 <img width="445" height="136" alt="END" src="https://github.com/user-attachments/assets/a740d57d-757d-4893-a9c4-9433470f96d5" />
 
