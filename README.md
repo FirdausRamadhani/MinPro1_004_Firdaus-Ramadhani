@@ -79,7 +79,7 @@ Kemudian admin bisa mengubah status dari pengaduan yang ada di daftar:
 
 <img width="429" height="667" alt="ADMIN UBAH STATUS" src="https://github.com/user-attachments/assets/7c9fccd2-00eb-4b73-8ca8-fa3afc7cb2dd" />
 
-Ini output daftar kekita status telah diubah
+Ini output daftar ketika status telah diubah
 
 <img width="350" height="430" alt="ADMIN UBAH STATUS 2" src="https://github.com/user-attachments/assets/5e28cd72-eeb8-49d5-acb8-823ea9a2bf81" />
 
